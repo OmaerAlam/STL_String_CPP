@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    //1 No process
+    //1 No process-
    string s="aabaa";
    string tmp=s;
    reverse(tmp.begin(),tmp.end());
@@ -11,7 +11,7 @@ int main(){
 
    cout<<endl;
 
-//2 No process
+//2 No process-
    string s1="aabAa";
    string tmp1=s1;
    reverse(tmp1.begin(),tmp1.end());
